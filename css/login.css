@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+.main-login {
+    padding: 80px 0 0 100px;
+}
+.text-login h1 {
+    font-weight: 600;
+}
+.text-login h5 {
+    color: #9D9D9D;
+}
+.bg-login {
+    height: 100vh;
+    background-image: url("../img/login.png");
+    background-size: cover;
+    margin-right: -5px;
+}
+.submit-bt {
+    background-color: #4361EE;
+}
+form h5 {
+    color: #4F4F4F;
+}
+
+.company {
+    text-align: center;
+    color: #767676;
+}
+.company span {
+    font-weight: 600;
+    color: #150544;
+}

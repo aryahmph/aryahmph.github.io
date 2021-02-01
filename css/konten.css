@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+.navbar-brand.fs-2 {
+    color: #222125;
+    font-weight: 600;
+}
+
+.active {
+    font-weight: 600;
+    color: #020913;
+}
+.nav-item button {
+    background-color: #4361EE;
+    border-radius: 30px;
+}
+
+/*  */
+.my-ucapan {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+.text-myucapan {
+    color: #020913;
+}
+.text-myucapan h5 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #040D1C;
+}
+.text-myucapan h1 {
+    font-weight: 600;
+    line-height: 60px;
+}
+.text-myucapan p {
+    font-size: 1.15rem;
+    line-height: 30px;
+    color: #0a162b;
+}
+
+.my-ucapan button {
+    border-radius: 30px;
+    background-color: #4361EE;
+}
+
+.testimonial {
+    padding-top: 5rem;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+.main-testi {
+    margin-bottom: 8rem;
+}
+.testimonial p {
+    color: #333850;
+}
+.testimonial h3 {
+    color: #560BAD;
+}
+.testimonial h5 {
+    font-weight: normal;
+    color: #736B7C;
+}
+
+.footer {
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+.footer h1 {
+    color: #393840;
+}
+.footer p {
+    color: #666565;
+}
